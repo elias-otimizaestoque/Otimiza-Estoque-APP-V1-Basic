@@ -40,8 +40,6 @@ Desenvolvido para gestores que buscam:
 
 ![chrome_pFYa8mmtlQ](https://github.com/user-attachments/assets/567bb399-e917-4beb-af3e-3c518a7ed05a)
 
-![chrome_QoWjOPQNus](https://github.com/user-attachments/assets/6433ab01-35d3-48f5-9352-66483e0ffe30)
-
 ![chrome_o6Dl4hFnT9](https://github.com/user-attachments/assets/c3a8ccbc-c283-4f44-b8c1-fb6a2a59d92f)
 
 ![chrome_vBKDb9Hmux](https://github.com/user-attachments/assets/e7482cbb-2d72-4de0-98f6-410239358ed4)
